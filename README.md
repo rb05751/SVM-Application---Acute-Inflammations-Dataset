@@ -1,6 +1,6 @@
 # SVM-Application---Acute-Inflammations-Dataset
 
-This project is application of a Support Vector Machine for Binary Classification on the Acute Inflammations Dataset available on the UCI Machine Learning Repository website (link: https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations), created by Jacek Czerniak, Ph.D., Assistant Professor at Systems Research Institute. In order to preprocess the data there are a few steps needed if one is not familiar with sourcing data from UCI:
+This project is an application of a Support Vector Machine for Binary Classification on the Acute Inflammations Dataset available on the UCI Machine Learning Repository website (link: https://archive.ics.uci.edu/ml/datasets/Acute+Inflammations), created by Jacek Czerniak, Ph.D., Assistant Professor at Systems Research Institute. In order to preprocess the data there are a few steps needed if one is not familiar with sourcing data from UCI:
 
 1) On the page of the ACI data, click on 'Data Folder', then click on the 'diagnosis.data' folder. This will either download directly into Notepad as a .txt file or you will have to go to your downloads folder, right click on the file, select open with notepad and go from there. 
 2) Once you have it downloaded in NotePad, save it as a .txt file.
